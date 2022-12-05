@@ -1,0 +1,29 @@
+{
+  "Levels": [
+    {
+      "Row": "3",
+      "Column": "3",
+      "Words": "1,0,ÇAM,H|0,1,MAÇ,V"
+    },
+    {
+      "Row": "4",
+      "Column": "5",
+      "Words": "2,0,KOYU,H|0,3,OYUK,V|0,2,KOY,H|0,0,YOK,V"
+    },
+    {
+      "Row": "5",
+      "Column": "7",
+      "Words": "0,1,SAVCI,V|1,1,AVCI,H|0,4,SIVA,V|4,0,CIVA,H|3,4,ACI,H|0,4,SAL,H"
+    },
+    {
+      "Row": "8",
+      "Column": "10",
+      "Words": "0,7,KAMYON,V|5,5,KONYA,H|0,3,OYMAK,H|0,3,OYNAK,V|4,9,KANO,V|3,0,KOMA,H|0,5,MAYO,V|3,1,ONAY,V|6,0,OYMA,H"
+    },
+    {
+      "Row": "10",
+      "Column": "12",
+      "Words": "3,3,AVCILIK,V|6,1,ACIKLI,H|4,6,AKILCI,V|9,3,KALICI,H|4,6,ACILI,H|2,10,AKICI,V|0,8,ALICI,V|2,6,ILICA,H|6,8,AVCI,V|3,0,CIVA,H|1,1,ILIK,V|6,8,AKIL,H|6,11,LAV,V|0,8,ACI,H|1,0,KIL,H"
+    }
+  ]
+}
